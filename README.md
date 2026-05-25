@@ -1,4 +1,4 @@
-# Ex--6-AWS-Account-setup-and-S3-creation-
+# Ex--3-AWS-Account-setup-and-S3-creation-
 
 # Name : Ezhilan N
 # Reg.no : 21222403007
